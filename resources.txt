@@ -1,0 +1,3 @@
+https://github.com/victordibia/handtracking
+
+https://arxiv.org/search/?query=hand+detection&searchtype=title&abstracts=show&order=-announced_date_first&size=50
