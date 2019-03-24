@@ -6,3 +6,7 @@ https://arxiv.org/search/?query=hand+detection&searchtype=title&abstracts=show&o
 hand dataset:
 ==========================================
 http://www.robots.ox.ac.uk/~vgg/data/hands/
+
+Another link of hand datasets (please download to check if any of them is/are helpful)
+=============================
+http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#gesture
