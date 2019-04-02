@@ -14,3 +14,7 @@ http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#gesture
 take a look at below
 =====================
 https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0k65p
+----------------------
+Outline of the project
+----------------------
+https://www.overleaf.com/project/5c7d247decf5266962b27fdb
