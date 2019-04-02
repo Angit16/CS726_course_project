@@ -15,6 +15,7 @@ take a look at below
 =====================
 https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0k65p
 ----------------------
-Outline of the project
+projects on  hand pose estimation
 ----------------------
-https://www.overleaf.com/project/5c7d247decf5266962b27fdb
+https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100085
