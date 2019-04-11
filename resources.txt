@@ -19,3 +19,7 @@ projects on  hand pose estimation
 ----------------------
 https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100085
+
+D-TSDF link
+--------------
+https://github.com/shurans/DeepSlidingShape/tree/master/matlab_code/vis
