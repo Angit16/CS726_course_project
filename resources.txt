@@ -23,3 +23,4 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100085
 D-TSDF link
 --------------
 https://github.com/shurans/DeepSlidingShape/tree/master/matlab_code/vis
+http://slidingshapes.cs.princeton.edu/ (only TSDF)
