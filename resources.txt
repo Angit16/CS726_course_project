@@ -24,3 +24,7 @@ D-TSDF link
 --------------
 https://github.com/shurans/DeepSlidingShape/tree/master/matlab_code/vis
 http://slidingshapes.cs.princeton.edu/ (only TSDF)
+
+helper training package
+-----------------------
+https://github.com/yukitsuji/3D_CNN_tensorflow
