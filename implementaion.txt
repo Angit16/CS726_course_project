@@ -1,0 +1,7 @@
+Create ply file
+----------------
+https://github.com/andyzeng/tsdf-fusion-python
+=====================
+.ply to .pcd converter
+---------------------
+https://github.com/PointCloudLibrary/pcl/blob/master/tools/ply2pcd.cpp
