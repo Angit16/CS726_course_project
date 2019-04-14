@@ -6,4 +6,4 @@ https://github.com/andyzeng/tsdf-fusion-python
 ---------------------
 https://github.com/PointCloudLibrary/pcl/blob/master/tools/ply2pcd.cpp
 =====================
-Use the pcd file as an input to slidingshape_feature package.
+Use the pcd file as an input to "slidingshape_feature" package.
