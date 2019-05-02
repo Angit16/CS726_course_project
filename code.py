@@ -77,8 +77,25 @@ def fully_connected(input_layer, shape, name="", is_training=True,dropout=tf.lay
         return fully
 def transform(joint_file):
      input = np.loadtxt(joint_file, dtype='i', delimiter=',')
-     
-      
+     for i in range(400):
+            x = np.array([])
+            y = np.array([])
+            z = np.array([])
+            for j in range(63):
+                  if j%3=0:
+                        x=np.append(x,input[i][j])
+                  if j%3=1:
+                        y=np.append(y,input[i][j])
+                  if j%3=2:
+                        z=np.append(z,input[i][j])
+            x_max= np.amax(x, axis=1)
+            x_min= np.amin(x, axis=1)
+            y_max= np.amax(y, axis=1)  
+            y_max= np.amin(y, axis=1)  
+            y_max= np.amax(z, axis=1)
+            z_min= np.amin(z, axis=1)
+            z_max= np.amax(x, axis=1)
+            
    
 
 class BNBLayer(object):
