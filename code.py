@@ -91,10 +91,19 @@ def transform(joint_file):
             x_max= np.amax(x, axis=1)
             x_min= np.amin(x, axis=1)
             y_max= np.amax(y, axis=1)  
-            y_max= np.amin(y, axis=1)  
-            y_max= np.amax(z, axis=1)
+            y_min= np.amin(y, axis=1)  
+            z_max= np.amax(z, axis=1)
             z_min= np.amin(z, axis=1)
-            z_max= np.amax(x, axis=1)
+           
+            center=np.array([x_min+(x_max-x_min)/2, y_min+(y_max-y_min)/2,z_min+(z_max-z_min)/2])
+            x = x-center[0]
+            y = y-center[1]
+            z = z-center[2]
+            input1=np.array([])
+            for k in range(21):
+                  
+                  
+            
             
    
 
