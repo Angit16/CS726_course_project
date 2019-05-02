@@ -75,6 +75,11 @@ def fully_connected(input_layer, shape, name="", is_training=True,dropout=tf.lay
         drop = dropout(inputs=fully, rate=0.5, training=mode == tf.estimator.ModeKeys.TRAIN)
         fully = batch_norm(drop, is_training)
         return fully
+def transform(joint_file):
+     input = np.loadtxt(joint_file, dtype='i', delimiter=',')
+     
+      
+   
 
 class BNBLayer(object):
     def __init__(self):
