@@ -1,4 +1,3 @@
-clear
 
 % joint positions recorded for training the newtwork 
 fid = fopen('joint.txt','r');
