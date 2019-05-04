@@ -82,7 +82,7 @@ def ssd_model(sess, voxel_shape=(300, 300, 300),activation=tf.nn.relu, is_traini
     return total_loss_2
 
 # Optimization module
-def create_optimizer(loss_func, lr=0.001):
+def create_optimizer(loss_func, lr=0.01):
     # Stochastic GradientDescentOptimizer with learning rate 0.01
     opt = tf.train.GradientDescentOptimizer(lr)  
     optimizer = opt.minimize(loss_func)
